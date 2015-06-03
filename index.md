@@ -7,7 +7,7 @@
 layout: frontpage
 title: "Data Carpentry"
 header:
-   image_fullwidth: "unsplash_leaf_header.jpg"
+   image_fullwidth: "header_unsplash_7.jpg"
 widget-1:
     title: "Blog"
     url: 'http://phlow.github.io/feeling-responsive/blog/'
