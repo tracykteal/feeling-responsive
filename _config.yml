@@ -21,7 +21,7 @@ description: "»Data Carpentry« is a responsive theme for Jekyll based on the f
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "http://tracykteal.github.io/feeling-responsive"
+url: "http://phlow.github.io/feeling-responsive"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
