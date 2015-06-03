@@ -34,7 +34,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://phlow.github.io/feeling-responsive/images/"
+urlimg: "http://tracykteal.github.io/feeling-responsive/images/"
 
 
 # Logo size is 600x80 pixels
@@ -194,7 +194,7 @@ sass:
     sass_dir: _sass
     style: :compressed
 
-exclude: [assets]
+#exclude: [assets]
 
 #       ___                __      __  _          
 #      /   |  ____  ____ _/ /_  __/ /_(_)_________
