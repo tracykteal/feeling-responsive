@@ -8,11 +8,11 @@
 #                                                 /____/        
 #
 # Title of your website
-title: "Feeling Responsive"
+title: "Data Carpentry"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "A Flexible Theme for Jekyll"
+slogan: "Making data science more efficient"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
@@ -155,7 +155,7 @@ msapplication_tilecolor:                "#fabb00"
 og_image:                           "http://images.phlow.de/phlow/phlow_de-logo-512x.png"
 og_locale:                          "en_EN"
 og_type:                            "website"
-og_title:                           "Feeling Responsive – A Responsive Theme for Jekyll"
+og_title:                           "Data Carpentry"
 og_description:                     "Feeling Responsive is built on the fabulous Foundation Framework and comes with lots of features to show your content right."
 # og_url:                           ""
 # og_site_name:                     ""
@@ -194,6 +194,7 @@ sass:
     sass_dir: _sass
     style: :compressed
 
+exclude: [assets]
 
 #       ___                __      __  _          
 #      /   |  ____  ____ _/ /_  __/ /_(_)_________
