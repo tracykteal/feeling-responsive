@@ -7,7 +7,7 @@
 layout: frontpage
 title: "Data Carpentry"
 header:
-   image_fullwidth: "old-wooden-background.jpg"
+   image_fullwidth: "wooden-wall-texture.jpg"
 widget-1:
     title: "Blog"
     url: 'http://phlow.github.io/feeling-responsive/blog/'
