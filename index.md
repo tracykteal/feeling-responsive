@@ -7,18 +7,18 @@
 layout: frontpage
 title: "Data Carpentry"
 header:
-   image_fullwidth: "header_unsplash_7.jpg"
+   image_fullwidth: "old-wooden-background.jpg"
 widget-1:
     title: "Blog"
     url: 'http://phlow.github.io/feeling-responsive/blog/'
     text: 'Blog for update on current events'
-    image: unsplash_9-302x182.jpg
+    image: unsplash_4-303x182.jpg
 widget-2:
     title: "Workshops"
     url: 'http://phlow.github.io/feeling-responsive/info/'
     text: '<em>Data Carpentry</em> offers workshops. Find out what we offer
 or how to get one in your location'
-    image: unsplash_9-302x182.jpg
+    image: unsplash_1-303x182.jpg
 widget-3:
     title: "Contributing"
     url: 'https://github.com/Phlow/feeling-responsive'
