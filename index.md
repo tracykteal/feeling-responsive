@@ -9,21 +9,20 @@ title: "Data Carpentry"
 header:
    image_fullwidth: "wooden-wall-texture.jpg"
 widget-1:
-    title: "Blog"
-    url: 'http://phlow.github.io/feeling-responsive/blog/'
-    text: 'Blog for update on current events'
-    image: unsplash_4-303x182.jpg
+    title: "Host a Workshop"
+    url: 'http://datacarpentry.github.io/blog/'
+    text: 'Find out how to host a workshop at your institution or organization'
 widget-2:
-    title: "Workshops"
+    title: "Attend a Workshop"
     url: 'http://phlow.github.io/feeling-responsive/info/'
-    text: '<em>Data Carpentry</em> offers workshops. Find out what we offer
-or how to get one in your location'
-    image: unsplash_1-303x182.jpg
+    text: 'Most workshops are coordinated by local hosts. Find out if there
+is a workshop in your area or how to attend one.'
+    image: Teal_SQL1.jpg
 widget-3:
-    title: "Contributing"
+    title: "Get Involved"
     url: 'https://github.com/Phlow/feeling-responsive'
     text: '<em>Data Carpentry</em> is a volunteer effort. Find out how you 
-can be an instructor or help develop content'
+can be an instructor, help develop content, or support us.'
     image: github-303x182.jpg
 ---
 

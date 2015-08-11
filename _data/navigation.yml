@@ -1,20 +1,20 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: About Us
+  url: "/about-us/"
   side: left
 
-- title: "Templates"
+- title: "Workshops"
   url: "/design/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
+  - title: "Schedule a Workshop"
     url: "/design/grid/"
-  - title: "Typography"
+  - title: "Workshops"
     url: "/design/typography/"
-  - title: "Page/Post"
+  - title: "Schedule a Workshop"
     url: "/design/page/"
   - title: "Post-Left-Sidebar"
     url: "/design/post-left-sidebar/"
@@ -26,32 +26,29 @@
     url: "/blog/"
   - title: "Video"
     url: "/design/video/"
-  - title: "Gallery"
+  - title: "Upcoming Workshops"
     url: "/design/gallery/"
-  - title: "Portfolio"
+  - title: "Past Workshops"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
-  url: "/headers/"
+- title: "Get Involved"
+  url: "/contributing/"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
+  - title: "Discussion Forum"
+    url: "/contributing/header-image-color/"
+  - title: "Help Develop Lessons"
+    url: "/contributing/header-full-width-image/"
+  - title: "Become an Instructor"
+    url: "/contributing/header-image-pattern/"
+  - title: "Partnership"
+    url: "/contributing/header-logo-only/"
+  - title: "Donate"
+    url: "/contributing/header-with-text/"
 
-- title: Documentation
-  url: "/documentation/"
+
+- title: Lessons
+  url: "/lessons/"
   side: left
   dropdown:
   - title: Documentation
@@ -60,6 +57,13 @@
     url: "/changelog/"
   - title: "Roadmap"
     url: "/roadmap/"
+
+- title: "For Instructors"
+  url: "/instructors/"
+  side: left
+  dropdown:
+  - title: Teaching
+    url: "/teaching/"  
 
 - title: Blog
   url: "/blog/"
