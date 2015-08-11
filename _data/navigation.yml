@@ -3,33 +3,23 @@
   side: left
 
 - title: About Us
-  url: "/about-us/"
+  url: "/about/"
   side: left
 
 - title: "Workshops"
-  url: "/design/"
+  url: "/workshops/"
   side: left
   dropdown:
-  - title: "Schedule a Workshop"
+  - title: "Request a Workshop"
     url: "/design/grid/"
-  - title: "Workshops"
-    url: "/design/typography/"
-  - title: "Schedule a Workshop"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
+  - title: "Workshops Offered"
+    url: "/workshops-offered/"
+  - title: "Workshops in Development"
+    url: "/workshops-development"
   - title: "Upcoming Workshops"
-    url: "/design/gallery/"
+    url: "/workshops-upcoming"
   - title: "Past Workshops"
-    url: "/design/portfolio/"
+    url: "/workshops-past/"
 
 - title: "Get Involved"
   url: "/contributing/"
@@ -41,8 +31,8 @@
     url: "/contributing/header-full-width-image/"
   - title: "Become an Instructor"
     url: "/contributing/header-image-pattern/"
-  - title: "Partnership"
-    url: "/contributing/header-logo-only/"
+  - title: "Be a Workshop Helper"
+    url: "/contributing/helper/"
   - title: "Donate"
     url: "/contributing/header-with-text/"
 
@@ -50,20 +40,6 @@
 - title: Lessons
   url: "/lessons/"
   side: left
-  dropdown:
-  - title: Documentation
-    url: "/documentation/"
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
-
-- title: "For Instructors"
-  url: "/instructors/"
-  side: left
-  dropdown:
-  - title: Teaching
-    url: "/teaching/"  
 
 - title: Blog
   url: "/blog/"
