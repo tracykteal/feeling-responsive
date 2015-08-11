@@ -28,6 +28,8 @@
     url: "/involved-lessons/"
   - title: "Become an Instructor"
     url: "/involved-instructor/"
+  - title: "Donate"
+    url: "/involved-donate/"
 
 - title: Lessons
   url: "/lessons/"
