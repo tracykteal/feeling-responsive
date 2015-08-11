@@ -1,18 +1,14 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact and use our contact form"
+title: "Contact Us"
+meta_title: "Contact us"
 show_meta: false
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+teaser: "Get in touch"
+header:
+   image_fullwidth: "wood_plank.jpg"
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
+If you have any questions or comments, or would like more information
+about Data Carpentry, please get in touch!
 
-<div class="panel">
-<iframe width="100%" height="650" frameborder="0" scrolling="no" src="https://phlowmedia.wufoo.com/embed/z7x3k1/"></iframe>
-</div>
-
-
-
- [1]: http://www.wufoo.com/
+We are [info@datacarpentry.org](mailto:info@datacarpentry.org)

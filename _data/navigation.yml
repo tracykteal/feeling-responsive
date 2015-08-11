@@ -7,34 +7,29 @@
   side: left
 
 - title: "Workshops"
-  url: "/workshops/"
   side: left
   dropdown:
   - title: "Request a Workshop"
-    url: "/design/grid/"
+    url: "http://datacarpentry.org/workshop-request.html"
   - title: "Workshops Offered"
     url: "/workshops-offered/"
   - title: "Workshops in Development"
     url: "/workshops-development"
   - title: "Upcoming Workshops"
     url: "/workshops-upcoming"
-  - title: "Past Workshops"
-    url: "/workshops-past/"
+
 
 - title: "Get Involved"
-  url: "/contributing/"
   side: left
   dropdown:
   - title: "Discussion Forum"
-    url: "/contributing/header-image-color/"
+    url: "http://discuss.datacarpentry.org"
   - title: "Help Develop Lessons"
-    url: "/contributing/header-full-width-image/"
+    url: "/involved-lessons/"
   - title: "Become an Instructor"
-    url: "/contributing/header-image-pattern/"
-  - title: "Be a Workshop Helper"
-    url: "/contributing/helper/"
+    url: "/involved-instructor/"
   - title: "Donate"
-    url: "/contributing/header-with-text/"
+    url: "/involved-donate/"
 
 
 - title: Lessons
