@@ -16,9 +16,14 @@ format: blog-index
 *
 {% endcomment %}
 <div class="row t60">
-<div class="large-16">
+<div class="medium-20">
 This is some text. We develop and teach workshops on the fundamental data skills they need to conduct their research. Our mission is to provide researchers high-quality, domain-specific training covering the full lifecycle of data-driven research.
-<p>&nbsp;
+<p>
+<br>
+<strong>Recent News >></strong>
+<p>
+<strong>Recent Blog Posts >></strong> {% include list-front.html entries='1' %}
+
 </div>
 
     {% if page.widget-1.title %}
@@ -48,7 +53,7 @@ This is some text. We develop and teach workshops on the fundamental data skills
         <a href="{{ page.widget-3.url }}">{% if page.widget-3.image %}<img src="{{ site.urlimg }}/{{ page.widget-3.image }}" width="302" height="182" alt="">{% endif %}{% if page.widget-3.video %}{{ page.widget-3.video }}{% endif %}</a>
 
         <p>{{ page.widget-3.text }}</p>
-        <p><a class="button tiny radius" href="{{ page.widget-3.url }}">Download &#64; GitHub ›</a></p>
+        <p><a class="button tiny radius" href="{{ page.widget-3.url }}">{{ site.data.language.more }}</a></p>
     </div><!-- /.medium-4.columns -->
     {% endif %}
 </div><!-- /.row -->
