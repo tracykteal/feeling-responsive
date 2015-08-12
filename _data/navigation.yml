@@ -9,8 +9,10 @@
 - title: "Workshops"
   side: left
   dropdown:
-  - title: "Request a Workshop"
-    url: "http://datacarpentry.org/workshop-request.html"
+  - title: "Host a Workshop"
+    url: "/workshops-host/"
+  - title: "Attend a Workshop"
+    url: "/workshops-attend/"
   - title: "Workshops Offered"
     url: "/workshops-offered/"
   - title: "Workshops in Development"
