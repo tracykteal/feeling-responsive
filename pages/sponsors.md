@@ -21,3 +21,5 @@ With more than $6.4 billion in assets, the Gordon and Betty Moore Foundation is 
 ### National Science Foundation
 
 Initial efforts on Data Carpentry were funded by the National Science Foundation and the CollabIT efforts across the NSF BIO Centers, as well as by DataONE.
+
+The Project Lead, Dr. Tracy Teal, was supported by [BEACON](http://beacon-center.org) at Michigan State University. 
