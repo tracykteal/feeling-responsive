@@ -13,8 +13,8 @@ are noted.
 
 ### August, 2015
  
-- Harvard, Genomics Workshop, Aug 25-26
-- Iowa State, Genomics Workshop, Aug 25-26
-- Sloan Kettering, Biology R Workshop, Aug 25-26
+- Harvard, Genomics Workshop, Aug 19-20
+- Iowa State, Genomics Workshop, Aug 24-25
+- [Sloan-Kettering, Biology R Workshop](http://datacarpentry.github.io/2015-08-24-Sloan-Kettering/), Aug 24-25
 
 More scheduled, and list to be updated soon!
